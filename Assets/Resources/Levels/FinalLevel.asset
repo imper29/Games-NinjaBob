@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68d7fada8552ca5479f4dbbae590f275, type: 3}
+  m_Name: FinalLevel
+  m_EditorClassIdentifier: 
+  levelName: Credits
+  characters: []
+  nextLevel: {fileID: 0}
+  scene: {fileID: 102900000, guid: 011cbb425fb7229488ea5fa4410ec9ae, type: 3}
+  music:
+    audio: {fileID: 8300000, guid: 8801636716a67d3409e03b99534a3e64, type: 3}

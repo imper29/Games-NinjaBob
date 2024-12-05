@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Immovable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Blue
+  - Red
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 296581651
+    locked: 0
+  - name: Characters-
+    uniqueID: 3633317135
+    locked: 0
+  - name: Characters=
+    uniqueID: 400989023
+    locked: 0
+  - name: Characters+
+    uniqueID: 1476882557
+    locked: 0
+  - name: Foreground
+    uniqueID: 1523533763
+    locked: 0
